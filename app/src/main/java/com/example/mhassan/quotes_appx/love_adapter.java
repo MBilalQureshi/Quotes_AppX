@@ -41,7 +41,7 @@ public class love_adapter  extends ArrayAdapter<String> {
 
         this.context = context;
         this.love = love;
-
+        //1
 
     }
 
